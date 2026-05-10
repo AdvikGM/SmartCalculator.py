@@ -10,6 +10,8 @@ A beginner-friendly Python calculator that performs basic mathematical operation
 - Division
 - User input support
 - Simple terminal interface
+- Can Attempt Again
+- Handles Invalid Choices for Operations
 
 ---
 
