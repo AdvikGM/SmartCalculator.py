@@ -12,6 +12,8 @@ A beginner-friendly Python calculator that performs basic mathematical operation
 - Simple terminal interface
 - Can Attempt Again
 - Handles Invalid Choices for Operations
+- History
+- Additional Operations
 
 ---
 
